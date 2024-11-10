@@ -32,5 +32,5 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Sourav1923/crypto-exchange-coin-clash.git](https://github.com/Sourav1923/Coin-Clash-Live-Crypto-Value-.git)
+   git clone https://github.com/Sourav1923/Coin-Clash-Live-Crypto-Value-.git
    cd crypto-exchange-coin-clash
